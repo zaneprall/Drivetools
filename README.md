@@ -1,5 +1,5 @@
 # Drivetools
-folder containing tools meant to be run from an external disk.
+Tools meant to be run from an external disk.
 Copy these onto a flash drive or networked drive for some basic windows extraction, administration and troubleshooting scripts.
 
 
